@@ -1,24 +1,26 @@
 # Honzafish
 
-Czech to english translator for Adium
+Czech to english translator for Adium & command line tool
 
 # Command Line
 
-## Installation
+### Installation
  1. pip install pytranslate
 
-## Usage
+### Usage
 
     cz [-r (czech-to-english)] [-p (copy result to clipboard)] "Text to translate"
 
 # Adium
 
-# Installation
+You can send messages directly in adium via the AdiumScript. See the installation and Usage
+
+## Installation
 
  1. pip install pytranslate
  2. double click the CzEn.AdiumScripts to install
  
-# Usage
+## Usage
 
 `%_cz{If we don't take action now}`
     
