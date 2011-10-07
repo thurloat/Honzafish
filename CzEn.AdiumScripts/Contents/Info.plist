@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Czech Translator</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.czen.scripts</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>Czech Translator</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>Scripts</key>
+	<array>
+		<dict>
+			<key>Arguments</key>
+			<string>message</string>
+			<key>File</key>
+			<string>cz</string>
+			<key>Keyword</key>
+			<string>%_cz</string>
+			<key>Prefix Only</key>
+			<false/>
+			<key>Title</key>
+			<string>English to CZ</string>
+		</dict>
+		<dict>
+			<key>Arguments</key>
+			<string>message</string>
+			<key>File</key>
+			<string>en</string>
+			<key>Keyword</key>
+			<string>%_en</string>
+			<key>Prefix Only</key>
+			<false/>
+			<key>Title</key>
+			<string>CZ to English</string>		
+		</dict>
+	</array>
+	<key>Set</key>
+	<string>Czech Translator</string>
+</dict>
+</plist>
